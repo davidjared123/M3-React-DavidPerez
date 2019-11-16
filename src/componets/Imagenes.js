@@ -13,7 +13,7 @@ const Imagenes =(props) => {
                       <p className="card-text">Visto {views}</p>
                         <p className="card-text">Descargas {downloads}</p>
                       
-                      <a href={largeImageURL} target='_blank' className="btn btn-danger btn-block">Ver imagen</a>
+                      <a href={largeImageURL} target="blank" className="btn btn-danger btn-block">Ver imagen</a>
                     </div>
                 </div>
             </div>
